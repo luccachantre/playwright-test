@@ -3,4 +3,4 @@ Learning and building a playwright/gemini python script to perform a hypothetica
 
 # Installations
 - Install python: download python from the official website. once you've downloaded it, you can check to make sure it is installed by going to your terminal and running "python --version"
-- install playwright
+- install playwright: once python is downloaded, in the terminal run "pip install playwright"
